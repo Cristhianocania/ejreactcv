@@ -28,6 +28,6 @@ function closePopup(event) {
   if (popup) {
     popup.style.display = "none";
    
-  } 
+  }    
 }
 
